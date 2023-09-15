@@ -1,0 +1,12 @@
+Passo a passo para baixar dados do caged
+
+1.Abrir filezilla
+2.Colocar no host ftp://ftp.mtps.gov.br/pdet/microdados/
+3.Clicar em quick connect
+4.Selecionar pasta para onde quer que os dados sejam alocados no seu computador (lado esquerdo)
+5.Selecionar os dados que quer baixar (lado direito)
+6. Arrastar esses dados para a parte de baixo do gerenciador
+7. Clicar em Transfer no topo ou cntrl+p
+
+
+8.Extrair os dados do arquivo .7z usando o script extractor7z.py
